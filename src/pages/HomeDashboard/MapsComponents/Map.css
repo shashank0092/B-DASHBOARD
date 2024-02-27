@@ -1,0 +1,20 @@
+#deckgl-wrapper{
+    position: static !important;
+    z-index: 0 !important;
+}
+
+#view-default-view{
+    position: absolute !important;
+    left: 0px !important;
+    top: 75px !important;
+    width: 1510px !important;
+    height: 673px !important;
+}
+
+#deckgl-overlay{
+    left: 0px !important;
+    top: 76px !important;
+    width: 100% !important;
+    position: absolute !important;
+    height: 100% !important;
+}
